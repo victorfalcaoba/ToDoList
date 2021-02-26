@@ -1,2 +1,2 @@
 # ToDoList
-A To Do List using Html, CSS, Sass and JS in Frontend, and JAVA, MySQL in Backend.
+A To-Do List made for practice with Html, CSS, Sass, and JS in Frontend, and JAVA(Spring and Hibernate) +  MySQL in Backend.
